@@ -1,0 +1,17 @@
+
+.parent{
+    font-size: 24px;
+    width: 400px;
+    border: 2px solid red;
+    text-align: center;
+}
+.child{
+    font-size: 2em;
+    width: 50%;
+    border: 2px solid rebeccapurple;
+    margin: 20px;
+    
+}
+p{
+    font-size: 1rem;
+}
